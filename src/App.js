@@ -12,6 +12,7 @@ return(
 <center>
 <Demo test={arrobj}/>
 </center>
+<Dynamic/>
 </div>
 );
 }
